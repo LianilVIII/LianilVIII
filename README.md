@@ -1,6 +1,6 @@
-Hi, I’m @LianilVIII, a french Computer Scientist, still studying
+Hi, I’m @LianilVIII, a french Computer Scientist Student, still studying
 -------------------------
 - 👀 I’m interested in ... obviously Computer Science
-- I’m currently learning <strong>Computer Science</strong> et trying to understand <strong>Quantum Computing</strong>
+- I’m currently learning <strong>Computer Science</strong> and trying to understand <strong>Quantum Computing</strong>
 
-- ⚡ Fun fact: ... I don't know yet but it will come maybe soon
+- ⚡ Fun fact: ... there is no funfact
